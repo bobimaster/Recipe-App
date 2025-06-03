@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Recipe App/1.0.0": {
+        "runtime": {
+          "Recipe App.dll": {}
+        },
+        "resources": {
+          "dje/Recipe App.resources.dll": {
+            "locale": "dje"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recipe App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

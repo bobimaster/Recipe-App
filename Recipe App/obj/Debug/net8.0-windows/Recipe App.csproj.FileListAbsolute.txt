@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\Recipe App\Recipe App\bin\Debug\net8.0-windows\Recipe App.exe
+C:\Users\Admin\source\repos\Recipe App\Recipe App\bin\Debug\net8.0-windows\Recipe App.deps.json
+C:\Users\Admin\source\repos\Recipe App\Recipe App\bin\Debug\net8.0-windows\Recipe App.runtimeconfig.json
+C:\Users\Admin\source\repos\Recipe App\Recipe App\bin\Debug\net8.0-windows\Recipe App.dll
+C:\Users\Admin\source\repos\Recipe App\Recipe App\bin\Debug\net8.0-windows\Recipe App.pdb
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\Recipe_App.MainForm.resources
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\Recipe App.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\Recipe App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\Recipe App.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\Recipe App.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\Recipe App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\Recipe App.dll
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\refint\Recipe App.dll
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\Recipe App.pdb
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\Recipe App.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\ref\Recipe App.dll
+C:\Users\Admin\source\repos\Recipe App\Recipe App\bin\Debug\net8.0-windows\dje\Recipe App.resources.dll
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\Recipe_App.Favorite_Recipes.resources
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\Recipe_App.Found_Recipe.resources
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\Recipe_App.Search_Engine.resources
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\Recipe_App.Favorite_Recipes.dje.resources
+C:\Users\Admin\source\repos\Recipe App\Recipe App\obj\Debug\net8.0-windows\dje\Recipe App.resources.dll
